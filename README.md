@@ -1,6 +1,6 @@
-# NeedleGX_TVM
+# NeedleGX: Needle-Based Graph Inference Acceleration Extension
 
-NeedleGX is a Needle-based GNN inference acceleration extension. It provides both a **Needle Native Backend** and a **TVM Backend**, enabling backend switching and performance comparisons across CPU / CUDA Cores / Tensor Cores.
+NeedleGX provides both a **Needle Native Backend** and a **TVM Backend**, enabling backend switching and performance comparisons across CPU / CUDA Cores / Tensor Cores.
 
 > For the full walkthrough and plots, see `needle_gx.ipynb`.
 
